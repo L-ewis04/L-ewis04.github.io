@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+<rect width="64" height="64" rx="17" fill="#0c1727"/>
+<rect x="3" y="3" width="58" height="58" rx="14" fill="none" stroke="#80e2d0" stroke-opacity=".38" stroke-width="2"/>
+<text x="50%" y="51%" text-anchor="middle" dominant-baseline="middle" font-family="monospace" font-size="27" font-weight="bold" letter-spacing="-3" fill="#80e2d0">LH</text>
+</svg>
